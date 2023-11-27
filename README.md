@@ -4,6 +4,7 @@ Term Project for CS 3310 Programming Languages (Fall Semester 2023)
 #### By Brynne Wright, Hunter Lane, and Arturo Perianez
 
 ## Part 1 - Algorithm Pseudocode 
+Write an algorithm (pseudocode) to do the following conversions. The system should take in as input a number from one number system and convert it to another number system. The converted number should be displayed as output. The pseudocode you write should be in format that is easy to read and understand.
 1. Decimal to Binary
 2. Binary to Decimal
 3. Decimal to Hexadecimal
